@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sudharshan-24
+- 👋 Hi, I’m Sudharshan
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning JavaScript
 
