@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sudharshan
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript & C# :)
 
 <!---
 Sudharshan-24/Sudharshan-24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
