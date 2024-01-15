@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Sudharshan
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning React and Node :)
+- 👋 Hello, world! I’m Sudharshan
+- 👀 I’m interested in Web development
+- 🌱 I’m currently mastering UI/UX Design :)
 
 <!---
 Sudharshan-24/Sudharshan-24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
